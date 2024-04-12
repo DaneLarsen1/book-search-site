@@ -1,6 +1,6 @@
 // require("dotenv").config();
 const mongoose = require('mongoose');
-// const uri = "mongodb+srv://danelarsen12:Familyfun1@cluster0.egapl0s.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+// const uri = "mongodb+srv://danelarsen12:Familyfun1@cluster0.egapl0s.mongodb.net/book-search-site?retryWrites=true&w=majority&appName=Cluster0";
 
 
 
